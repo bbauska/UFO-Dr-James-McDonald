@@ -1,8 +1,9 @@
 {
-  "name": "UFO-Dr McDonald",
+  "name": "UFO-Dr James McDonald",
   "short_name": "UFO/UAP's", 
-  "start_url": "/UFO-McDonald.bauska.org",
-  "display": "standalone", "icons": [
+  "start_url": "index.html",
+  "display": "standalone", 
+  "icons": [
     {
       "src": "\/images/android-icon-36x36.png",
       "sizes": "36x36",
